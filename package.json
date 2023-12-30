@@ -1,5 +1,5 @@
 {
-  "name": "01_lesson",
+  "name": "redux-toolkit-lessons",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
